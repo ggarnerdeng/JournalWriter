@@ -1,6 +1,10 @@
 //Garner Deng
-//JournalWriter.java
 //10/12/2022
+//JournalWriter.java
+
+/*  
+        This program simulates a gratitude journal. A GUI prompt will appear, requesting an user input. The user input is recorded with a timestamp of creation, and appended to the file "Journal.txt". If no such file exists, it will be created. 
+ */
 
 import java.io.*;
 import java.util.*;
